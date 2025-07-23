@@ -1,1 +1,1 @@
-Manual jwt authentication and websockets over stomp setup
+**Manual jwt authentication and websockets over stomp**
